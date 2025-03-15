@@ -3,7 +3,6 @@ anyio==4.8.0
 asgiref==3.5.0
 bcrypt==3.2.0
 blinker==1.4
-Brlapi==0.8.3
 certifi==2024.12.14
 chardet==4.0.0
 click==8.1.8
